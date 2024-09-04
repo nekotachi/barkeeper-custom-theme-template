@@ -1,0 +1,7 @@
+---
+barkeeper:
+  metadata:
+    engine_version: 1
+    engine: barkeeper-erb
+    name: Example Template
+    author: Nekotachi Ltd
